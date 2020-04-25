@@ -2,6 +2,8 @@
 
 Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
+# conheça mais sobre a plataforma com cursos gratuitos -> https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU
+
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
 ## Instalação
